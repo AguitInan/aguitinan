@@ -55,7 +55,7 @@ Feel free to reach out to me via:
 
 - [LinkedIn](https://www.linkedin.com/in/aguitinan)
 <!-- - [Twitter](https://twitter.com/yourtwitterhandle) -->
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:aguit.inan@gmail.com)
 
 I'm always open to interesting discussions, collaboration opportunities, or just to chat about technology and software development. Don't hesitate to connect with me!
 
