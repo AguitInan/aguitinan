@@ -24,14 +24,14 @@
 
 I enjoy working with the following technologies and tools:
 
-- 💻 C#/.NET
-- 🚀 ASP.NET Core
-- 🛢️ SQL Server
-- 🧪 Entity Framework
-- 📦 RESTful APIs
-- 🐱 Git & GitHub
-- 🧩 Docker
-- ☁️ Microsoft Azure
+-  C#/.NET
+-  ASP.NET Core
+-  SQL Server
+-  Entity Framework
+-  RESTful APIs
+-  Git & GitHub
+-  Docker
+-  Microsoft Azure
 
 ## 🌱 Projects
 
