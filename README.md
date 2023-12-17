@@ -1,7 +1,6 @@
 ### 🌱 Developer .NET/C# Development 🌱
 
- <img src="[image.jpg](https://media.licdn.com/dms/image/D4E16AQG2SYvfQTj3jA/profile-displaybackgroundimage-shrink_350_1400/0/1702829923554?e=1708560000&v=beta&t=oIHrVPjYte2zvN4Us3hIHg_xxQUbGqE0nshuT0VhAEk)" alt="" />
- ![Texte alternatif](/img/banner.png "Bannière")
+![Texte alternatif](/img/Banner.png "Bannière")
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
