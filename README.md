@@ -41,9 +41,8 @@ Here are some of the projects I've worked on or currently working on:
 - [Project 2: Description and link]
 - [Project 3: Description and link] -->
 
-[Doctolib (WPF)](https://github.com/aguitinan/doctolib)
-
-[Incident Management (PHP)](https://github.com/aguitinan/incident-management)
+- [Doctolib (WPF)](https://github.com/aguitinan/doctolib)
+- [Incident Management (PHP)](https://github.com/aguitinan/incident-management)
 
 You can find more of my projects on my [GitHub repository](https://github.com/aguitinan).
 
