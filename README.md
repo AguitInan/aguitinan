@@ -24,15 +24,6 @@
 
 I enjoy working with the following technologies and tools:
 
-<!-- -  C#/.NET
--  ASP.NET Core
--  SQL Server
--  Entity Framework
--  RESTful APIs
--  Git & GitHub
--  Docker
--  Microsoft Azure -->
-
 - Frameworks: Symfony, .NET Core, ASP.NET, WPF, MVC, NestJS
 - Front-End: HTML 5, CSS 3, LESS, ReactJS
 - API Development, Entity Framework, LINQ
@@ -47,29 +38,16 @@ I enjoy working with the following technologies and tools:
 
 Here are some of the projects I've worked on or currently working on:
 
-<!-- - [Project 1: Description and link]
-- [Project 2: Description and link]
-- [Project 3: Description and link] -->
-
 - [Doctolib (WPF .NET)](https://github.com/aguitinan/doctolib)
 - [Incident Management (PHP)](https://github.com/aguitinan/incident-management)
 
 You can find more of my projects on my [GitHub repository](https://github.com/aguitinan).
-
-<!-- ## 📚 Blog
-
-I occasionally write about my experiences, projects, and tech-related topics. Check out my latest blog posts:
-
-- [Blog Post 1: Title and link]
-- [Blog Post 2: Title and link]
-- [Blog Post 3: Title and link] -->
 
 ## 💬 Let's Connect
 
 Feel free to reach out to me via:
 
 - [LinkedIn](https://www.linkedin.com/in/aguitinan)
-<!-- - [Twitter](https://twitter.com/yourtwitterhandle) -->
 - [Email](mailto:aguit.inan@gmail.com)
 
 I'm always open to interesting discussions, collaboration opportunities, or just to chat about technology and software development. Don't hesitate to connect with me!
