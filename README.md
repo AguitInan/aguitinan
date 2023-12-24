@@ -24,14 +24,24 @@
 
 I enjoy working with the following technologies and tools:
 
--  C#/.NET
+<!-- -  C#/.NET
 -  ASP.NET Core
 -  SQL Server
 -  Entity Framework
 -  RESTful APIs
 -  Git & GitHub
 -  Docker
--  Microsoft Azure
+-  Microsoft Azure -->
+
+- Frameworks: Symfony, .NET Core, ASP.NET, WPF, MVC, NestJS
+- Front-End: HTML 5, CSS 3, LESS, ReactJS
+- API Development, Entity Framework, LINQ
+- Databases: SQL, PostgreSQL, ADO.NET
+- Environments: Windows, Linux
+- Agile and Scrum Methodologies, UML
+- Microsoft Azure
+- CI/CD: Azure DevOps
+- Git and GitHub
 
 ## 🌱 Projects
 
