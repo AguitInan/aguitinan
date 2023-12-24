@@ -12,11 +12,11 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-👋 Hi there! I'm Aguit, an aspiring Backend Developer with a passion for building robust and scalable applications using .NET/C#.
+👋 Hi there! I'm Aguit, a Backend Developer with a passion for building robust and scalable applications using .NET/C#.
 
 ## About Me
 
-- 🌟 Aspiring Backend Developer
+- 🌟 Backend Developer
 <!-- - 🎓 [Your Educational Background] -->
 - 💼 Currently open to new opportunities
 
