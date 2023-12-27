@@ -17,7 +17,6 @@
 ## About Me
 
 - 🌟 Backend Developer
-<!-- - 🎓 [Your Educational Background] -->
 - 💼 Currently open to new opportunities
 
 ## 🔧 Technologies & Tools
