@@ -29,7 +29,7 @@ I enjoy working with the following technologies and tools:
 - Databases: SQL, PostgreSQL, ADO.NET
 - Environments: Windows, Linux
 - Agile and Scrum Methodologies, UML
-<!-- - Microsoft Azure -->
+- Microsoft Azure
 - CI/CD: Azure DevOps
 - Git and GitHub
 
