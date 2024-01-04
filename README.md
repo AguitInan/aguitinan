@@ -30,7 +30,7 @@ I enjoy working with the following technologies and tools:
 - Environments: Windows, Linux
 - Agile and Scrum Methodologies, UML
 - Microsoft Azure
-- CI/CD: Azure DevOps
+<!-- - CI/CD: Azure DevOps -->
 - Git and GitHub
 
 ## 🌱 Projects
