@@ -23,8 +23,8 @@
 
 I enjoy working with the following technologies and tools:
 
-- Frameworks: Symfony, .NET Core, ASP.NET, WPF, MVC, NestJS
-- Front-End: HTML 5, CSS 3, LESS, ReactJS
+- Frameworks: .NET Core, ASP.NET, WPF, MVC, NestJS, Symfony
+- Front-End: Blazor, HTML 5, CSS 3
 - API Development, Entity Framework, LINQ
 - Databases: SQL, PostgreSQL, ADO.NET
 - Environments: Windows, Linux
