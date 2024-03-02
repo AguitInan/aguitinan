@@ -37,8 +37,9 @@ I enjoy working with the following technologies and tools:
 
 Here are some of the projects I've worked on or currently working on:
 
+- [AltenShopAPI (API .NET)](https://github.com/aguitinan/AltenShopAPI)
 - [Doctolib (WPF .NET)](https://github.com/aguitinan/doctolib)
-- [Incident Management (PHP)](https://github.com/aguitinan/incident-management)
+<!-- - [Incident Management (PHP)](https://github.com/aguitinan/incident-management) -->
 
 You can find more of my projects on my [GitHub repository](https://github.com/aguitinan).
 
